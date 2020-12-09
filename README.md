@@ -12,10 +12,10 @@ Welcome to my Github profile!
 
 ## Tech Stack
 ### Mobile
-<img src="img/swift.png" height="30"/>
+<img src="img/Swift.png" height="30"/>
 
 ### Backend
-<img src="img/javascript.png" height="30"/>
+<img src="img/Javascript.png" height="30"/>
 <img src="img/NodeJS.png" height="30"/>
 
 ### Machine Learning / Data Analytics
@@ -24,7 +24,7 @@ Welcome to my Github profile!
 <img src="img/R.png" height="30"/>
 
 ### Everywhere
-<img src="img/python.png" height="30"/>
+<img src="img/Python.png" height="30"/>
 <img src="img/Go.png" height="30"/>
 <img src="img/C++.png" height="30"/>
 <img src="img/CSharp.png" height="30"/>
