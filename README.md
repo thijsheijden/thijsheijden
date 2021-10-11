@@ -24,9 +24,16 @@ Welcome to my Github profile! I am Thijs, a 21 year old software engineer from t
   <img src="img/gRPC.png" height="30">
   <img src="img/Redis.png" height="30">
   <img src="img/MongoDB.png" height="30">
+  <img src="img/Ansible.png" height="30">
 </p>
 
 ## Frameworks I use
 <p float="left">
   <img src="img/React.png" height="30">
+</p>
+
+## Things I am learning
+<p float="left">
+  <img src="img/Kafka.png" height="30">
+  <img src="img/Solidity.png" height="30">
 </p>
