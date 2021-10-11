@@ -10,7 +10,7 @@ Welcome to my Github profile! I am Thijs, a 21 year old software engineer from t
 ## Languages I use
 <p float="left">
   <img src="img/Go.png" height="30">
-  <img src="img/Typescript.png" height="30">
+  <img src="img/TypeScript.png" height="30">
   <img src="img/Swift.png" height="30">
   <img src="img/CSharp.png" height="30">
   <img src="img/C++.png" height="30">
