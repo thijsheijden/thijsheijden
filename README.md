@@ -37,3 +37,7 @@ Welcome to my Github profile! I am Thijs, a 21 year old software engineer from t
   <img src="img/Kafka.png" height="30">
   <img src="img/Solidity.png" height="30">
 </p>
+
+***
+## Github Stats
+![Thijsheijden's GitHub stats](https://github-readme-stats.vercel.app/api?username=thijsheijden&hide=issues&show_icons=true)
