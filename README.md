@@ -36,6 +36,7 @@ Welcome to my Github profile! I am Thijs, a 21 year old software engineer from t
 <p float="left">
   <img src="img/Kafka.png" height="30">
   <img src="img/Solidity.png" height="30">
+  <img src="img/Rust.png" height="30">
 </p>
 
 ***
