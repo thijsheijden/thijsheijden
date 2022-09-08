@@ -14,7 +14,3 @@ Welcome to my Github profile! I am Thijs, a 22 year old software engineer from t
   <img src="img/TypeScript.png" height="30">
   <img src="img/Swift.png" height="30">
 </p>
-
-***
-## Github Stats
-![Thijsheijden's GitHub stats](https://github-readme-stats.vercel.app/api?username=thijsheijden&show_icons=true)
