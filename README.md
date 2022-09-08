@@ -17,4 +17,4 @@ Welcome to my Github profile! I am Thijs, a 22 year old software engineer from t
 
 ***
 ## Github Stats
-![Thijsheijden's GitHub stats](https://github-readme-stats.vercel.app/api?username=thijsheijden&hide=issues&show_icons=true)
+![Thijsheijden's GitHub stats](https://github-readme-stats.vercel.app/api?username=thijsheijden&show_icons=true)
