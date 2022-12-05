@@ -14,3 +14,8 @@ Welcome to my Github profile! I am Thijs, a 22 year old software engineer from t
   <img src="img/TypeScript.png" height="30">
   <img src="img/Swift.png" height="30">
 </p>
+
+## Languages I am learning :)
+<p float="left">
+  <img src="img/Rust.png" height="30">
+</p>
