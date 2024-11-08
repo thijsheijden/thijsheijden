@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my Github profile! I am Thijs, a 23 year old software engineer from the Netherlands. Currently working as a backend engineer at Clip Money. Looking forward to contributing more to open source.
+Welcome to my Github profile! I am Thijs, a 24 year old software engineer from the Netherlands. Currently working as a backend engineer at Clip Money. Looking forward to contributing more to open source.
 
 ## About me
 - Backend engineer at a fintech startup.
