@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my Github profile! I am Thijs, a 25 year old software engineer from the Netherlands. Currently working as a backend engineer as part of the earners team @Uber in Amsterdam.
+Welcome to my Github profile! I am Thijs, a 26 year old software engineer from the Netherlands. Currently working as a backend engineer as part of the earners team @Uber in Amsterdam.
 
 ## About me
 - Enjoy architecting scalable, reliable, fault-tolerant, and fast solutions for complex problems
